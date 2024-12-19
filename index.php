@@ -18,14 +18,19 @@
         </ul>
     </nav>
 
-    <nav>
-        <ul>
-            <li><a href="index.php">Home</a></li>
-            <li><a href="about.php">About</a></li>
-            <li><a href="help.php">Help</a></li>
-            <li><a href="current_time.php">Know NOw time</a></li>
-        </ul>
-    </nav>
+    <h2>
+        <nav>
+            <ul>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="about.php">About</a></li>
+                <li><a href="help.php">Help</a></li>
+                <li><a href="current_time.php">Know Now time</a></li>
+                <li><a href="live_time.php">Current Live Clock</a></li>
+                <li><a href="random_items.php">Get a random Things</a></li>
+                <li><a href="colorful_pages.php">Load Colorful Pages Background</a></li>
+            </ul>
+        </nav>
+    </h2>
 
 
 
@@ -36,7 +41,6 @@
     <h2><a href="http://www.youtube.com">Visit YOutube Link </a></h2>
 
     <img src="images/linux_logo.png" alt="This is linux Cartoon image" width="300">
-
 </body>
 
 </html>

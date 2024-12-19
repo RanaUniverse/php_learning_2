@@ -7,5 +7,8 @@
 </head>
 <body>
     <h1>This is dynamic help file of php</h1>
+
+    <h3>You can go to Home Page Below</h3>
+    <p><a href="index.php">Home Page Return</a></p>
 </body>
 </html>

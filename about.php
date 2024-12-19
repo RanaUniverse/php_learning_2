@@ -7,5 +7,7 @@
 </head>
 <body>
     <h1>This is Dynamic php file with php code</h1>
+    <p><a href="index.php">Home Page Return</a></p>
+
 </body>
 </html>

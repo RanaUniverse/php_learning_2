@@ -23,7 +23,14 @@ date_default_timezone_set($tz_name);
 
         ?>
 
-
+        <nav>
+            <ul>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="about.php">About</a></li>
+                <li><a href="help.php">Help</a></li>
+                <li><a href="current_time.php">Know Now time</a></li>
+            </ul>
+        </nav>
     </h1>
 </body>
 
