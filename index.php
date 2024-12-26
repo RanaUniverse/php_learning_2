@@ -21,6 +21,8 @@
     <h2>
         <nav>
             <ul>
+                <li><a href="learn_php.php">Learn PHP ONLY</a></li>
+                <li><a href="pure_html_page.html">Pure HTML Page Checking</a></li>
                 <li><a href="index.php">Home</a></li>
                 <li><a href="about.php">About</a></li>
                 <li><a href="help.php">Help</a></li>
@@ -28,6 +30,8 @@
                 <li><a href="live_time.php">Current Live Clock</a></li>
                 <li><a href="random_items.php">Get a random Things</a></li>
                 <li><a href="colorful_pages.php">Load Colorful Pages Background</a></li>
+                <li><a href="for_loop.php">Some For Loop</a></li>
+                <li><a href="function_learning.php">Function Learning</a></li>
             </ul>
         </nav>
     </h2>

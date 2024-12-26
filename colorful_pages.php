@@ -43,6 +43,16 @@ echo "RGB Color: (" . implode(", ", $rgb) . ")";
         ?>
 
     </h2>
+
+
+    <nav>
+        <ul>
+            <h1>
+                <li><a href="colorful_pages.php">Load Colorful Pages Background Again</a></li>
+            </h1>
+        </ul>
+    </nav>
+
 </body>
 
 </html>
